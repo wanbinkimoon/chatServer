@@ -1,0 +1,29 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "very basic server for chatting w/ random people ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanbinkimoon/chatServer.git"
+  },
+  "keywords": [
+    "server",
+    "socket.io",
+    "express",
+    "chat"
+  ],
+  "author": "Nicola Bertelloni",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wanbinkimoon/chatServer/issues"
+  },
+  "homepage": "https://github.com/wanbinkimoon/chatServer#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.2"
+  }
+}
